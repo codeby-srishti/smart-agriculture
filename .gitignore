@@ -1,0 +1,20 @@
+# C++ compiled executable
+smart_agriculture
+
+# Linux kernel module build files
+*.o
+*.ko
+*.mod
+*.mod.c
+*.symvers
+modules.order
+
+# Kernel build metadata
+.*.cmd
+.module-common.o
+.module-common.o.cmd
+.Module.symvers.cmd
+.modules.order.cmd
+
+# Temporary/editor files
+*~
